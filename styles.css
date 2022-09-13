@@ -172,6 +172,7 @@ main .top-heading {
 	background-color: var(--color3);
 	padding: 20px 5%;
 	border-radius: 5px;
+	overflow: auto;
 }
 
 .font-type .implementation p {
